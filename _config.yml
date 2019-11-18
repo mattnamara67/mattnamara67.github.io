@@ -1,4 +1,5 @@
-theme: type-on-strap
+#theme: type-on-strap
+remote_theme: sylhare/Type-on-Strap
 
 # SITE CONFIGURATION
 baseurl: ""
