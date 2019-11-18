@@ -1,4 +1,4 @@
-#theme: type-on-strap
+# theme: type-on-strap
 remote_theme: sylhare/Type-on-Strap
 
 # SITE CONFIGURATION
@@ -7,12 +7,12 @@ url: "https://mattnamara67.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Must Maintain                                    # site's title
-description: "Stories and blog posts by Matt Namara"      # used by search engines
+description: "Stories and ramblings by Matt Namara"      # used by search engines
 avatar:                          # Empty for no avatar in navbar
 
 
 # Header and footer text
-header_text: Must Maintain                                            # Change Blog header text
+header_text: <h1>Must Maintain</h1><p>Stories and ramblings by Matt Namara</p>                                            # Change Blog header text
 
 # Blog
 excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
