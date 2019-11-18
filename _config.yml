@@ -1,26 +1,42 @@
-collections:
-  stories:
-    output: true
+theme: type-on-strap
 
-# Front matter defaults
-defaults:
-  - scope:
-      path: ""
-      type: "stories"
-    values:
-      layout: "story"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://mattnamara67.github.io"
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# THEME-SPECIFIC CONFIGURATION
+title: Must Maintain                                    # site's title
+description: "Stories and blog posts by Matt Namara"      # used by search engines
+avatar:                          # Empty for no avatar in navbar
+
+
+# Header and footer text
+header_text: Must Maintain                                            # Change Blog header text
+
+# Blog
+excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image:                   # A bit transparent for color posts.
+
+# Features
+katex: false                                             # Enable if using math markup
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname:                                       # Your discus shortname for comments
+layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
+footer_icons:                                           # In _data/social.yml
+share_buttons:                                          # In _data/social.yml
+authors:                                                # In _data/authors.yml
+language:                                               # In _data/language.yml
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*"]
