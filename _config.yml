@@ -1,5 +1,9 @@
-# theme: type-on-strap
-remote_theme: sylhare/Type-on-Strap
+# IMPORTANT: remote_theme for github pages, theme for local.
+# github pages only wants me to use remote_theme.
+# there's probably a way to make remote_theme work locally but i'm too lazy
+# i probably should've just forked the theme. Oh well.
+theme: type-on-strap
+#remote_theme: sylhare/Type-on-Strap
 
 # SITE CONFIGURATION
 baseurl: ""
@@ -8,11 +12,13 @@ url: "https://mattnamara67.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Must Maintain                                    # site's title
 description: "Stories and ramblings by Matt Namara"      # used by search engines
-avatar:                          # Empty for no avatar in navbar
+avatar:                          # None yet
+favicon:                        # None yet
 
 
 # Header and footer text
 header_text: <h1>Must Maintain</h1><p>Stories and ramblings by Matt Namara</p>                                            # Change Blog header text
+header_feature_image: assets/pretty-cropped.jpg
 
 # Blog
 excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable

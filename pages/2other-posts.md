@@ -1,7 +1,7 @@
 ---
 layout: feed
 title: Other Posts
-subtitle: These aren't stories, just random thoughts I felt like writing.
 permalink: /other-posts/
+feature-img: "assets/pretty.jpg"
 category: other
 ---

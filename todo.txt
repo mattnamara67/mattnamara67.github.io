@@ -1,8 +1,3 @@
--Have "stories" and "blog" in the navbar
--Customize fonts
--Show author
--fill in "about me"
 -create an initial post
 -post "A Night on the Roof"
--Create an initial header photo
 -put in share links
