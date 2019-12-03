@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: Dancing in the Glory of Monsters
+title: Book Review - *Dancing in the Glory of Monsters*
 tags: [book, review]
 category: "other"
 feature-img: "assets/img/zaireflagcropped.png"
