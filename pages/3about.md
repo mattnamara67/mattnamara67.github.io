@@ -22,16 +22,16 @@ Short stories, movie/book reviews, and a few random thoughts sprinkled in. I mos
 Because nobody looks at this thing so why bother maintaining a comment system? If you want to give feedback on a story then send me an email. If you ask, I'll include the feedback in an edit under the story. If somehow people actually end up reading this thing and enough of them demand comments then maybe I'll do it.
 
 # How often do you plan on writing?
-I want to post *something* to this blog at least once a week. Usually on Sunday.
+When I have the time and the inspiration. Maybe never.
 
 # Why did you go with "Matt Namara" as a pseudonym?
 One of the movies that had the greatest effect on how I see the world is *The Fog of War*, which is basically an extended interview with former Secretary of Defense Robert McNamara. It was captivating seeing someone who was once one of the most powerful people in the world be so candid about the mistakes he made and the horrible things he's done. Do I admire McNamara? Not really, he was a tremendously flawed person. But I liked the way his last name sounded, so I refitted it around my first name. "McNamara" -> "MattNamara" -> "Matt Namara".
 
 # How do you pronounce "Namara"?
-I don't know, it's a fake name, pronounce it how you want. The "Namara" part of "McNamara" goes *Nuh-mare-uh* but in my head I pronounce "Namara" as *Nam*(rhyme with "am")-*uh*-*ruh* but since nobody ever talks to me it doesn't matter how you say it.
+I don't know, it's a fake name, pronounce it how you want. The "Namara" part of "McNamara" goes *Nuh-mare-uh* but in my head I pronounce "Namara" as *Nam*(rhyme with "dam")-*uh*-*ruh* but since nobody ever talks to me it doesn't matter how you say it.
 
 # Favorite movie?
-*Jurassic Park*, it has a lot of personal meaning. Other contenders: *The Godfather I & II*, *The Fellowship of the Ring*, *Goodfellas*, *The Big Lebowski*, *No Country for Old Men*, *The Blair Witch Project*, and plenty of others. 
+*Jurassic Park*, it has a lot of personal meaning. Other contenders: *The Godfather I & II*, *The Fellowship of the Ring*, *Goodfellas*, *The Big Lebowski*, *No Country for Old Men*, *The Blair Witch Project*, and plenty of others.
 
 # Favorite book?
 Probably *East of Eden*. I've been trying to read more lately, now that I'm done with college.
